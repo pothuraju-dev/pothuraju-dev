@@ -1,17 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Pothuraju Sri Ram</title>
-</head>
-
-<body>
-    <div>
-
-    Hi 👋 My name is Pothuraju Sri Ram Kumar
+ Hi 👋 My name is Pothuraju Sri Ram Kumar
 
 ========================================
 
@@ -28,10 +15,9 @@ I started by programming journey with python language. I have been working on Vu
 * 🚀  I'm currently working on [NinjaSEO](http://ninjaseo.com),[NinjaCapture](https://ninjacapture.com),[OpenedOrNot](https://openedornot.com)
 
 * 🧠  I'm learning Vue JS, Node Js, Python
-    </div>
 
 
-    <h3> Skills</h3>
+    ### Skills
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -44,18 +30,14 @@ I started by programming journey with python language. I have been working on Vu
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
 </p>
 
-    <h3>Socials</h3>
+    ### Socials
 
 <p align="left"> <a href="https://www.github.com/pothuraju-sriram" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/ram.the.stranger " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/pothuraju-sriram" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@sri-ram-kumar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
 
-    <h3> Badges</h3>
+    ### Badges
 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/pothuraju-sriram"><img src="https://github-readme-stats.vercel.app/api?username=pothuraju-sriram&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="pothuraju-sriram's GitHub stats" /></a>
 
 <a href="https://github.com/pothuraju-sriram" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pothuraju-sriram&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-</body>
-
-</html>
