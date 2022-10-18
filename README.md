@@ -16,7 +16,7 @@ Front-end Developer
 
 -------------------
 
-I started by programming journey with python language. I have been working on Vue Js framework from last 1 year, I am passionate about backend.
+I started by programming journey with python language. I have been working on Vue Js framework from last 1 year, I am passionate about Python programming.
 
 * 🌍  I'm based in India
 
@@ -24,7 +24,7 @@ I started by programming journey with python language. I have been working on Vu
 
 * 🚀  I'm currently working on [NinjaSEO](http://ninjaseo.com),[NinjaCapture](https://ninjacapture.com),[OpenedOrNot](https://openedornot.com)
 
-* 🧠  I'm learning Vue JS, Node Js, Python
+* 🧠  I'm working on JS, VueJS, Python, MySQL
 
 
 ### Skills
